@@ -1,4 +1,4 @@
-# Cofrinho Project
+# PiggyBank Project
 
 * This code is just an application of the OOP concepts, as polymorphism and encapsulation.
 
